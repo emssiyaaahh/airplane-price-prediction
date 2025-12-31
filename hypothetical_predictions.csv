@@ -1,0 +1,6 @@
+Model Name,Engine Type,HP or lbs thr ea engine,Max speed Knots,Rcmnd cruise Knots,Stall Knots dirty,Fuel gal/lbs,All eng rate of climb,Eng out rate of climb,Takeoff over 50ft,Landing over 50ft,Empty weight lbs,Length ft/in,Wing span ft/in,Range N.M.,Predicted Price
+Cessna 172 Skyhawk,Piston,180,124,122.0,47.0,53,730,700.0,1440.0,1335,1691,27/2,36/1,696,1457518.2713027596
+Piper PA-28 Cherokee,Piston,160,132,130.0,49.0,50,660,650.0,1620.0,1190,1410,23/4,30/0,502,1422733.7101346713
+Beechcraft Baron 58,Piston,300,200,195.0,71.0,136,1600,1520.0,2050.0,2498,3337,29/10,37/10,1480,2212514.669343814
+Cirrus SR22,Piston,310,185,183.0,60.0,92,1400,1380.0,1517.0,1900,2348,26/0,38/4,1207,2384152.798626953
+Diamond DA40,Piston,180,147,145.0,45.0,40,1040,1000.0,1350.0,1580,1785,26/5,39/2,760,1757246.6206629765
