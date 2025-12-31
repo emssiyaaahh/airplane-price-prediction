@@ -84,5 +84,3 @@ After running the modeling and saving section:
 * Call .predict() on the pipeline to obtain price estimates for new airplanes.
 ​​
 This setup enables consistent price prediction and can be extended into an API or simple application for demonstration or business use.
-
-
