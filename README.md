@@ -10,6 +10,7 @@ This project develops a machine learning workflow to estimate airplane prices ba
 * File used: Plane Price.csv loaded from /kaggle/input/plane-price-prediction/Plane Price.csv in the notebook.
 * Shape: 517 rows and 16 columns.
 * Target variable: Price (airplane price in monetary units).
+
 ​
 Example feature columns:​
 * Model Name
